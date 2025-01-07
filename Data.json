@@ -14,19 +14,14 @@
     "aboutUs": {
         "title": "About Me",
         "summary": [
-            "3.5+ years of experience in front-end and back-end development, specializing in HTML5, CSS, JavaScript, React.js, Redux, Node.js, Express.js and mongoDB.",
-            "Strong expertise in analyzing and optimizing Document Object Model (DOM) structure, DOM functions, and JavaScript operations for seamless cross-browser compatibility using developer tools.",
-            "Proficient in building and maintaining custom reusable component libraries in React.js to ensure scalable and efficient development",
-            "Skilled in implementing Redux architecture, leveraging advanced Object-Oriented Programming (OOP) concepts to enhance website performance and maintainability.",
-            "Extensive experience with MongoDB and SQL for database design, development, and optimization, including implementing complex queries and ensuring data integrity.",
-            "Hands-on experience with React.js features such as components, forms, events, keys, routing, animations, and state management using Redux and Flux.",
-            "Proficient in developing RESTful APIs using Node.js and Express.js, ensuring high performance and scalability for server-side applications.",
-            "Adept at implementing modern authentication and authorization mechanisms, including JSON Web Tokens (JWT), for secure and robust applications."
+            "As a Software Engineer with 3.5 years of professional experience, I specialize in developing robust and scalable web applications that deliver exceptional performance and user experiences.",
+            "During my industry experience, I have significantly worked on the design, development, and management of user-centric, responsive, and scalable front-end applications, ensuring seamless functionality and exceptional user experiences. This has helped me gain substantial exposure to various front-end technologies, including modern JavaScript frameworks and libraries, both in traditional and cloud-native environments. Additionally, I have developed a solid foundation in problem-solving, UI/UX design principles, state management, component-based architecture, web performance optimization, and automating front-end workflows using modern development tools. I enjoy working on challenging projects as they provide ample learning opportunities, contributing to my technical and professional growth, and I aim to continue doing so.",
+            "Outside of work, I enjoy photography, watching movies, and exploring the beauty of nature."
         ]
     },
     "education": [
         {
-            "degree": "Masters in computer science",
+            "degree": "Masters",
             "institution": "Clevleand State University",
             "year": "2023-2025",
             "location": "Cleveland, United States",
@@ -92,10 +87,8 @@
             "title": "Software Engineer",
             "location": "Bangalore, India",
             "duration": "2022 to 2023",
-            "responsibilities": [
-                "As a Data Engineer at TechPathCorp, I lead an in-house project focused on extracting and analyzing data from our mobile app to gain insights into user behavior and Bluetooth device connectivity. This involves developing a robust data pipeline that captures real-time user interactions and Bluetooth connection/disconnection events. I implemented API integration systems and utilized Kafka and Amazon Kinesis for efficient data streaming into AWS S3, ensuring low-latency ingestion.",
-                "Leveraging AWS Glue and PySpark, I create scalable ETL jobs to transform raw data into structured formats, focusing on key performance indicators such as Daily Active Users (DAU), session duration, feature adoption rates, and Bluetooth connectivity metrics. Additionally, I design real-time dashboards using Azure Dashboard services to provide stakeholders with actionable insights into app performance and user engagement. By actively participating in Agile ceremonies, I continuously enhance our data pipeline and analytics capabilities, driving targeted improvements based on user feedback.",
-                "This project has significantly improved our understanding of user behavior and connectivity issues, leading to informed product development decisions. The insights gained have not only enhanced the user experience but also contributed to increased retention and satisfaction, ultimately driving business value for TechPathCorp."
+            "Description": [
+                "Punjab National Bank is a prominent institution in the Banking and Financial Services domain, specializing in secure payment processing. I worked on developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform."
             ],
             "environment": [
                 "Hadoop",
