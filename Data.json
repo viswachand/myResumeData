@@ -1,126 +1,125 @@
 {
     "personalInformation": {
-      "name": "Viswachand Akkanambattu",
-      "title": "Software Engineer",
-      "contact": {
-        "phone": "+1 2164631168",
-        "email": "viswachand19@gmail.com",
-        "github": "https://github.com/viswachand",
-        "linkedin": "https://www.linkedin.com/in/viswachand-akkanambattu-9aa558147/",
-        "Medium": "https://medium.com/@LearnWithBindu",
-        "visaStatus": "F1 Valid Thru 07/2028"
-      }
+        "name": "Viswachand Akkanambattu",
+        "title": "Software Engineer",
+        "contact": {
+            "phone": "+1 2164631168",
+            "email": "viswachand19@gmail.com",
+            "github": "https://github.com/viswachand",
+            "linkedin": "https://www.linkedin.com/in/viswachand-akkanambattu-9aa558147/",
+            "Medium": "https://medium.com/@LearnWithBindu",
+            "visaStatus": "F1 Valid Thru 07/2028"
+        }
     },
     "aboutUs": {
-      "title": "About Me",
-      "summary": [
-        "As a Software Engineer with 3.5 years of professional experience, I specialize in developing robust and scalable web applications that deliver exceptional performance and user experiences.",
-        "During my industry experience, I have significantly worked on the design, development, and management of user-centric, responsive, and scalable front-end applications, ensuring seamless functionality and exceptional user experiences. This has helped me gain substantial exposure to various front-end technologies, including modern JavaScript frameworks and libraries, both in traditional and cloud-native environments. Additionally, I have developed a solid foundation in problem-solving, UI/UX design principles, state management, component-based architecture, web performance optimization, and automating front-end workflows using modern development tools. I enjoy working on challenging projects as they provide ample learning opportunities, contributing to my technical and professional growth, and I aim to continue doing so.",
-        "Outside of work, I enjoy photography, watching movies, and exploring the beauty of nature."
-      ]
+        "title": "About Me",
+        "summary": [
+            "As a Software Engineer with 3.5 years of professional experience, I specialize in developing robust and scalable web applications that deliver exceptional performance and user experiences.",
+            "During my industry experience, I have significantly worked on the design, development, and management of user-centric, responsive, and scalable front-end applications, ensuring seamless functionality and exceptional user experiences. This has helped me gain substantial exposure to various front-end technologies, including modern JavaScript frameworks and libraries, both in traditional and cloud-native environments. Additionally, I have developed a solid foundation in problem-solving, UI/UX design principles, state management, component-based architecture, web performance optimization, and automating front-end workflows using modern development tools. I enjoy working on challenging projects as they provide ample learning opportunities, contributing to my technical and professional growth, and I aim to continue doing so.",
+            "Outside of work, I enjoy photography, watching movies, and exploring the beauty of nature."
+        ]
     },
     "keyCompetencies": [
-      {
-        "title": "Accountable :",
-        "description": "Proven experience in delivering high-impact results"
-      },
-      {
-        "title": "Team player :",
-        "description": "Great collaboration skills"
-      },
-      {
-        "title": "Agile and adaptable :",
-        "description": "Can quickly adapt to changing requirements"
-      },
-      {
-        "title": "Positive influence :",
-        "description": "Optimistic driver of new initiatives"
-      }
+        {
+            "title": "Accountable :",
+            "description": "Proven experience in delivering high-impact results"
+        },
+        {
+            "title": "Team player :",
+            "description": "Great collaboration skills"
+        },
+        {
+            "title": "Agile and adaptable :",
+            "description": "Can quickly adapt to changing requirements"
+        },
+        {
+            "title": "Positive influence :",
+            "description": "Optimistic driver of new initiatives"
+        }
     ],
     "education": [
-      {
-        "degree": "Masters",
-        "institution": "Cleveland State University",
-        "year": "2023-2025",
-        "location": "Cleveland, United States",
-        "honors": "Computer Science"
-      },
-      {
-        "degree": "Bachelor of Technology",
-        "institution": "Kalasalingam University",
-        "year": "2015-2019",
-        "location": "Krishankovil, India",
-        "honors": "Electronics and Communication"
-      }
+        {
+            "degree": "Masters",
+            "institution": "Cleveland State University",
+            "year": "2023-2025",
+            "location": "Cleveland, United States",
+            "honors": "Computer Science"
+        },
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Kalasalingam University",
+            "year": "2015-2019",
+            "location": "Krishankovil, India",
+            "honors": "Electronics and Communication"
+        }
     ],
     "skills": [
-      {
-        "title": "Front-End Technologies",
-        "items": [
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "React.js",
-          "Redux"
-        ]
-      },
-      {
-        "title": "Back-End Technologies",
-        "items": [
-          "Node.js",
-          "Express.js"
-        ]
-      },
-      {
-        "title": "Databases",
-        "items": [
-          "MongoDB",
-          "MySQL"
-        ]
-      },
-      {
-        "title": "Version Control Tools",
-        "items": [
-          "Git"
-        ]
-      },
-      {
-        "title": "Scripting Languages",
-        "items": [
-          "JavaScript",
-          "SQL",
-          "Python (Basic Knowledge)"
-        ]
-      },
-      {
-        "title": "Modern Authentication Mechanisms",
-        "items": [
-          "JSON Web Tokens (JWT)"
-        ]
-      }
+        {
+            "title": "Front-End Technologies",
+            "items": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React.js",
+                "Redux"
+            ]
+        },
+        {
+            "title": "Back-End Technologies",
+            "items": [
+                "Node.js",
+                "Express.js"
+            ]
+        },
+        {
+            "title": "Databases",
+            "items": [
+                "MongoDB",
+                "MySQL"
+            ]
+        },
+        {
+            "title": "Version Control Tools",
+            "items": [
+                "Git"
+            ]
+        },
+        {
+            "title": "Scripting Languages",
+            "items": [
+                "JavaScript",
+                "SQL",
+                "Python (Basic Knowledge)"
+            ]
+        },
+        {
+            "title": "Modern Authentication Mechanisms",
+            "items": [
+                "JSON Web Tokens (JWT)"
+            ]
+        }
     ],
     "experience": [
-      {
-        "company": "Moonraft Innovation Labs",
-        "title": "Software Engineer",
-        "location": "Bangalore, India",
-        "duration": "2022 to 2023",
-        "Description": [
-          "Punjab National Bank is a prominent institution in the Banking and Financial Services domain, specializing in secure payment processing. I worked on developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform."
-        ]
-      },
-      {
-        "company": "Target Corporation India",
-        "title": "Sr Data Engineer",
-        "location": "Bangalore, India",
-        "duration": "2020-08 to 2022-07",
-        "Description": [
-          "Punjab National Bank is a prominent institution in the Banking and Financial Services domain, specializing in secure payment processing. I worked on developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform."
-        ]
-      }
+        {
+            "company": "Moonraft Innovation Labs",
+            "title": "Software Engineer",
+            "location": "Bangalore, India",
+            "duration": "2022 to 2023",
+            "Description": [
+                "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As a member of the front-end development team, I contributed to a project for Punjab National Bank, a leading institution in the Banking and Financial Services sector specializing in secure payment processing. My role involved developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform."
+            ]
+        },
+        {
+            "company": "Target Corporation India",
+            "title": "Sr Data Engineer",
+            "location": "Bangalore, India",
+            "duration": "2020-08 to 2022-07",
+            "Description": [
+                "Punjab National Bank is a prominent institution in the Banking and Financial Services domain, specializing in secure payment processing. I worked on developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform."
+            ]
+        }
     ],
     "references": {
-      "availableOnRequest": true
+        "availableOnRequest": true
     }
-  }
-  
+}
