@@ -40,6 +40,7 @@
     "education": [
         {
             "degree": "Masters",
+            "url":"https://www.csuohio.edu/",
             "institution": "Cleveland State University",
             "year": "2023-2025",
             "location": "Cleveland, United States",
@@ -47,6 +48,7 @@
         },
         {
             "degree": "Bachelor of Technology",
+            "url":"https://www.kalasalingam.ac.in/",
             "institution": "Kalasalingam University",
             "year": "2015-2019",
             "location": "Krishankovil, India",
