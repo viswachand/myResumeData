@@ -39,7 +39,7 @@
     "education": [
         {
             "degree": "Masters",
-            "url":"https://www.csuohio.edu/",
+            "url": "https://www.csuohio.edu/",
             "institution": "Cleveland State University",
             "year": "2023-2025",
             "location": "Cleveland, United States",
@@ -47,7 +47,7 @@
         },
         {
             "degree": "Bachelor of Technology",
-            "url":"https://www.kalasalingam.ac.in/",
+            "url": "https://www.kalasalingam.ac.in/",
             "institution": "Kalasalingam University",
             "year": "2015-2019",
             "location": "Krishankovil, India",
@@ -103,17 +103,15 @@
     "experience": [
         {
             "company": "Moonraft Innovation Labs",
-            "url":"https://moonraft.com/",
+            "url": "https://moonraft.com/",
             "title": "Software Engineer",
             "location": "Bangalore, India",
             "duration": "July 2022 to August 2023",
             "Description": [
                 "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As a member of the front-end development team, I contributed to a project for Punjab National Bank, a leading institution in the Banking and Financial Services sector specializing in secure payment processing. My role involved developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform.",
                 "Involved in gathering the requirements from Tech Leads and other Architects.",
-                "As a part of the innovation team, Coordinate with the UI/UX designer and product owner to
-deliver functional and user-friendly solutions.",
+                "As a part of the innovation team, Coordinate with the UI/UX designer and product owner to deliver functional and user-friendly solutions.",
                 "Ensuring high performance and responsiveness to requests to the back end.",
-                
             ]
         }
     ],
