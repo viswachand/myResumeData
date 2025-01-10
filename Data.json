@@ -120,15 +120,15 @@
             "company": "Good Crop It Pvt Ltd,",
             "url": "https://goodcorpit.com/",
             "buttonText" : " Find Good Crop journey in this article",
-            "title": "Front End developer",
+            "title": "Software Engineer",
             "location": "Hyderbad, India",
-            "duration": "Feb 2020 to Jun 2022",
+            "duration": "Jan 2021 to Jun 2022",
             "journey":"https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
             "Description": [
-                "Goodcorpit is a full-fledged research and review platform that helps software buyers and service seekers to opt for the best software or firm. At the same time, it helps IT companies and software vendors to boost user acquisition stats, market share and brand awareness. As a member of the front-end development team, I contributed to a project for Punjab National Bank, a leading institution in the Banking and Financial Services sector specializing in secure payment processing. My role involved developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform.",
-                "Involved in gathering the requirements from Tech Leads and other Architects.",
-                "As a part of the innovation team, Coordinate with the UI/UX designer and product owner to deliver functional and user-friendly solutions.",
-                "Ensuring high performance and responsiveness to requests to the back end."
+                "Goodcorpit is a comprehensive research and review platform that assists software buyers and service seekers in choosing the best software or service providers. As a Front-End Developer, I worked on two projects. For the client SC CODE WORKS, I played a pivotal role in migrating a warehouse management system from IBM AS400 to React.js. The second project involved the development of an animal warehouse management solution.",
+                "Involved in various phases of the Software Development Life Cycle (SDLC) of the application like Requirements gathering, Design, Analysis, and Code development.",
+                "Used to interact with the design team for suggestions of screens or UX changes and take the wireframes accordingly.",
+                "Developing functionalities to generate FEDEX and USPS labels for warehouse operations."
             ]
         }
     ],
