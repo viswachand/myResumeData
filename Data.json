@@ -1,7 +1,7 @@
 {
     "personalInformation": {
         "name": "Viswachand Akkanambattu",
-        "title": "Software Engineer",
+        "title": "Full Stack Developer",
         "contact": {
             "phone": "+1 2164631168",
             "email": "viswachand19@gmail.com",
@@ -13,7 +13,7 @@
     "aboutUs": {
         "title": "About Me",
         "summary": [
-            "As a Software Engineer with 3.5 years of professional experience, I specialize in developing robust and scalable web applications that deliver exceptional performance and user experiences.",
+            "As a Software Engineer with 4 years of professional experience, I specialize in developing robust and scalable web applications that deliver exceptional performance and user experiences.",
             "During my industry experience, I have significantly worked on the design, development, and management of user-centric, responsive, and scalable front-end applications, ensuring seamless functionality and exceptional user experiences. This has helped me gain substantial exposure to various front-end technologies, including modern JavaScript frameworks and libraries, both in traditional and cloud-native environments. Additionally, I have developed a solid foundation in problem-solving, UI/UX design principles, state management, component-based architecture, web performance optimization, and automating front-end workflows using modern development tools. I enjoy working on challenging projects as they provide ample learning opportunities, contributing to my technical and professional growth, and I aim to continue doing so.",
             "Outside of work, I enjoy photography, watching movies, and exploring the beauty of nature."
         ]
@@ -61,6 +61,8 @@
                 "HTML5",
                 "CSS3",
                 "JavaScript",
+                "TypeScript",
+                "Angular",
                 "React.js",
                 "Next.js",
                 "Redux"
@@ -70,7 +72,10 @@
             "title": "Back-End Technologies",
             "items": [
                 "Node.js",
-                "Express.js"
+                "Express.js",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Security"
             ]
         },
         {
@@ -87,14 +92,6 @@
             ]
         },
         {
-            "title": "Scripting Languages",
-            "items": [
-                "JavaScript",
-                "SQL",
-                "Python (Basic Knowledge)"
-            ]
-        },
-        {
             "title": "Modern Authentication Mechanisms",
             "items": [
                 "JSON Web Tokens (JWT)"
@@ -105,31 +102,31 @@
         {
             "company": "Moonraft Innovation Labs",
             "url": "https://moonraft.com/",
-            "buttonText" : " Find Moonraft journey in this article",
+            "buttonText": " Find Moonraft journey in this article",
             "title": "Software Engineer",
             "location": "Bangalore, India",
             "duration": "July 2022 to August 2023",
-            "journey":"https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
+            "journey": "https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
             "Description": [
                 "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As a member of the front-end development team, I contributed to a project for Punjab National Bank, a leading institution in the Banking and Financial Services sector specializing in secure payment processing. My role involved developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform.",
-                "Involved in gathering the requirements from Tech Leads and other Architects.",
-                "As a part of the innovation team, Coordinate with the UI/UX designer and product owner to deliver functional and user-friendly solutions.",
-                "Ensuring high performance and responsiveness to requests to the back end."
+                "Led the full Software Development Life Cycle including requirement analysis, design, coding, testing, deployment and maintenance phases to ensure high-quality software delivery.",
+                "Facilitated agile ceremonies (Sprint Planning, Stand-ups and Retrospectives) and promoted Scrum practices to enhance collaboration, continuous feedback and incremental delivery.",
+                "Developed backend applications using Java 17 and Java 14, leveraging Core Java concepts like Sealed Classes for improved security, Pattern Matching for efficient condition handling, Text Blocks for cleaner code formatting and managed deprecated APIs like Applet API."
             ]
         },
         {
             "company": "Good Crop It Pvt Ltd,",
             "url": "https://goodcorpit.com/",
-            "buttonText" : " Find Good Crop journey in this article",
+            "buttonText": " Find Good Crop journey in this article",
             "title": "Front-End Developer",
             "location": "Hyderbad, India",
             "duration": "Feb 2020 to Jun 2022",
-            "journey":"https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
+            "journey": "https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
             "Description": [
                 "Goodcorpit is a comprehensive research and review platform that assists software buyers and service seekers in choosing the best software or service providers. As a Front-End Developer, I worked on two projects. For the client SC CODE WORKS, I played a pivotal role in migrating a warehouse management system from IBM AS400 to React.js. The second project involved the development of an animal warehouse management solution.",
-                "Involved in various phases of the Software Development Life Cycle (SDLC) of the application like Requirements gathering, Design, Analysis, and Code development.",
-                "Used to interact with the design team for suggestions of screens or UX changes and take the wireframes accordingly.",
-                "Developing functionalities to generate FedEx and USPS labels for warehouse operations."
+                "Migrated legacy AS400-based system to modern web applications with enhanced UI/UX using React.js, Redux, and Node.js, improving usability and maintainability for warehouse operations",
+                "By migrating the application to React.js with an optimized UI/UX, significantly enhanced the efficiency of inbound and outbound logistics operations, leading to a 45% increase in processing throughput and improved real-time visibility for warehouse teams.",
+                "Built reusable React components with Redux integration for FedEx and USPS shipping workflows, enabling real-time tracking and order placement; collaborated with warehouse staff, product managers, and backend teams to ensure seamless end-to-end logistics functionality and barcode scanning accuracy."
             ]
         }
     ],
