@@ -109,7 +109,7 @@
             "journey": "https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
             "Description": [
                 "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As a member of the Full Stack Developer team, I contributed to a project for Punjab National Bank, a leading institution in the Banking and Financial Services sector specializing in secure payment processing. My role involved developing a comprehensive end-to-end solution to streamline customer onboarding through both a mobile application and an online web platform.",
-                "Engineered a performant, data-intensive onboarding application using React and TypeScript, creating a smooth user experience for complex workflows (KYC, e-signatures) that reduced customer onboarding time by 60%",
+                "Engineered a performant, data-intensive onboarding application, creating a smooth user experience for complex workflows (KYC, e-signatures) that reduced customer onboarding time by 60%",
                 "Built the front end for a modular loan approval engine, creating a data-rich interface that handled complex logic and large datasets of dynamic rules, resulting in a 70",
                 "Demonstrated strong product intuition by collaborating with product and design partners to integrate REST APIs, balancing thoughtful technical decisions with speed to enhance regulatory traceability and deliver user value"
             ]
