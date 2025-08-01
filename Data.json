@@ -72,10 +72,7 @@
             "title": "Back-End Technologies",
             "items": [
                 "Node.js",
-                "Express.js",
-                "Spring Boot",
-                "Spring MVC",
-                "Spring Security"
+                "Express.js"
             ]
         },
         {
