@@ -28,10 +28,9 @@
             "description": "Great collaboration skills"
         },
         {
-              "title": "Agile and adaptable:",
-              "description": "Can quickly adapt to changing requirements"
+            "title": "Agile and adaptable:",
+            "description": "Can quickly adapt to changing requirements"
         },
-
         {
             "title": "Positive influence :",
             "description": "Optimistic driver of new initiatives"
@@ -60,27 +59,41 @@
             "title": "Programming Languages",
             "items": [
                 "HTML5",
-                "CSS3",
+                "CSS/SCSS/SASS",
                 "JavaScript",
                 "TypeScript",
-                "Angular",
+                "Java",
+                "Python",
+                "SQL"
+            ]
+        },
+        {
+            "title": "Frontend & Web Technologies",
+            "items": [
                 "React.js",
                 "Next.js",
+                "Angular",
+                "Tailwind CSS",
+                "Material-UI",
+                "Bootstrap",
                 "Redux"
             ]
         },
         {
-            "title": "Back-End Technologies",
+            "title": "Backend Technologies",
             "items": [
                 "Node.js",
-                "Express.js"
+                "Express.js",
+                "Restful APIs",
+                "GraphQL"
             ]
         },
         {
             "title": "Databases",
             "items": [
                 "MongoDB",
-                "MySQL"
+                "MySQL",
+                "PostgreSQL"
             ]
         },
         {
@@ -92,7 +105,8 @@
         {
             "title": "Modern Authentication Mechanisms",
             "items": [
-                "JSON Web Tokens (JWT)"
+                "JSON Web Tokens (JWT)",
+                "OAuth2"
             ]
         }
     ],
