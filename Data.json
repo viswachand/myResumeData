@@ -112,9 +112,24 @@
     ],
     "experience": [
         {
+            "company": "Cleveland State University",
+            "url": "https://csuohio.edu/",
+            "buttonText": "Find CSU journey in this article",
+            "title": "Software Engineer Intern",
+            "location": "Cleveland, OH, USA",
+            "duration": "September 2024 to May 2025",
+            "journey": "https://medium.com/@viswachand19/csu-journey-336e7104c2f6",
+            "Description": [
+                "Cleveland State University is a public research university in Cleveland, Ohio. As a Software Engineer Intern, I contributed to innovative projects that enhance campus technology and student services. My role involved designing and implementing scalable software solutions to improve user experience and operational efficiency.",
+                "Collaborated on student portal architecture, contributing to microservices-based design discussions and supporting scalability improvements.",
+                "Redesigned and optimized Student & Teacher feedback pages, reducing page load time by 40% and enhancing user satisfaction.",
+                "Strengthened application security by applying best practices, lowering potential vulnerabilities by 25% in testing."
+            ]
+        },
+        {
             "company": "Moonraft Innovation Labs",
             "url": "https://moonraft.com/",
-            "buttonText": " Find Moonraft journey in this article",
+            "buttonText": "Find Moonraft journey in this article",
             "title": "Software Engineer",
             "location": "Bangalore, India",
             "duration": "July 2022 to August 2023",
