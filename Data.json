@@ -13,7 +13,7 @@
     "aboutUs": {
         "title": "About",
         "summary": [
-            "Backend-focused Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
+            "Backend-focused Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security  delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
             "I have architected and modernized large scale systems from legacy platforms into cloud-native microservices, integrating with critical financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines. My experience spans designing RESTful APIs, message-driven architectures with RabbitMQ, database optimization, and implementing strong authentication and authorization mechanisms for sensitive data.",
             "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions."
         ]
@@ -116,8 +116,10 @@
         {
             "title": "Certifications",
             "items": [
-                "AWS Certified Developer – Associate",
-                "https://www.credly.com/badges/your-aws-badge-link-here"
+                {
+                    "name": "AWS Certified Developer – Associate",
+                    "url": "https://www.credly.com/badges/your-aws-badge-link-here"
+                }
             ]
         }
     ],
