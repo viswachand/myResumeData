@@ -13,7 +13,7 @@
     "aboutUs": {
         "title": "About",
         "summary": [
-            "Backend-focused Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security  delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
+            "Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security  delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
             "I have architected and modernized large scale systems from legacy platforms into cloud-native microservices, integrating with critical financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines. My experience spans designing RESTful APIs, message-driven architectures with RabbitMQ, database optimization, and implementing strong authentication and authorization mechanisms for sensitive data.",
             "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions."
         ]
@@ -118,7 +118,7 @@
             "items": [
                 {
                     "name": "AWS Certified Developer – Associate",
-                    "url": "https://www.credly.com/badges/your-aws-badge-link-here"
+                    "url": "https://www.credly.com/badges/3f6ffd95-263c-4f97-8c48-1dba91f0aeef/linked_in_profile"
                 }
             ]
         }
@@ -128,7 +128,7 @@
             "company": "Moonraft (Acquired by UST)",
             "url": "https://moonraft.com/",
             "buttonText": "Find Moonraft journey in this article",
-            "title": "Backend Software Engineer",
+            "title": "Software Engineer",
             "location": "Bangalore, India",
             "duration": "July 2022 to August 2023",
             "journey": "https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
@@ -145,7 +145,7 @@
             "company": "Good Crop IT Pvt Ltd",
             "url": "https://goodcorpit.com/",
             "buttonText": "Find Good Crop journey in this article",
-            "title": "Backend Software Engineer",
+            "title": "Software Engineer",
             "location": "Hyderabad, India",
             "duration": "Feb 2020 to Jun 2022",
             "journey": "https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
