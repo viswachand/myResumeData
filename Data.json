@@ -68,12 +68,11 @@
         {
             "title": "Backend",
             "items": [
-                "Spring Boot 3.x",
+                "Spring Boot 3",
                 "Spring Framework",
                 "Spring Data JPA",
                 "Hibernate",
                 "Spring Security",
-                "Apache Camel",
                 "RabbitMQ",
                 "RESTful APIs"
             ]
