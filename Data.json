@@ -10,16 +10,17 @@
             "visaStatus": "F1 Valid Thru 07/2028"
         }
     },
-    "aboutUs": {
-        "title": "About",
-        "summary": [
-            "Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
-            "I have architected and modernized large-scale systems from legacy platforms into cloud-native microservices, integrating with critical financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines. My experience spans designing RESTful APIs, message-driven architectures with RabbitMQ, database optimization, and implementing strong authentication and authorization mechanisms for sensitive data.",
-            "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions.",
-            "I am also an active writer on [Medium](https://medium.com/@viswachand19), where I share insights on backend engineering, cloud-native architectures, and best practices in software design.",
-            "Outside of work, I enjoy photography and exploring creative ways to capture the world through my lens, which helps me stay inspired and curious beyond code."
-        ]
-    },
+   "aboutUs": {
+  "title": "About",
+  "summary": [
+    "As a Software Engineer with 3.5+ years of professional experience, I specialize in building secure, scalable, and high-performance backend systems for enterprise-grade SaaS platforms across banking, finance, and logistics domains.",
+    "My work focuses on designing Spring Boot microservices, developing RESTful APIs, and implementing event-driven architectures that process millions of transactions with 99.99% uptime. I have architected and modernized large-scale systems from legacy platforms into cloud-native microservices, integrating with financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines.",
+    "My expertise includes Spring Data JPA, Hibernate, Spring Security, Apache Camel, RabbitMQ, database optimization, and implementing secure authentication and authorization mechanisms for sensitive data.",
+    "I am also an active writer on [Medium](https://medium.com/@viswachand19), where I share insights on backend engineering, cloud-native architectures, and best practices in software design.",
+    "Outside my professional work, I love photography, exploring nature, and capturing creative perspectives through my lens."
+  ]
+}
+
     "keyCompetencies": [
         {
             "title": "Accountable:",
