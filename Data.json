@@ -1,163 +1,163 @@
 {
-  "personalInformation": {
-    "name": "Viswachand Akkanambattu",
-    "title": "Software Engineer",
-    "contact": {
-      "phone": "+1 2164631168",
-      "email": "viswachandakkanambattu@gmail.com",
-      "github": "https://github.com/viswachand",
-      "linkedin": "https://www.linkedin.com/in/viswachand-akkanambattu-9aa558147/",
-      "visaStatus": "F1 Valid Thru 07/2028"
-    }
-  },
-  "aboutUs": {
-    "title": "About",
-    "summary": [
-      "Backend-focused Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
-      "I have architected and modernized large-scale systems from legacy platforms into cloud-native microservices, integrating with critical financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines. My experience spans designing RESTful APIs, message-driven architectures with RabbitMQ, database optimization, and implementing strong authentication and authorization mechanisms for sensitive data.",
-      "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions."
-    ]
-  },
-   "keyCompetencies": [
+    "personalInformation": {
+        "name": "Viswachand Akkanambattu",
+        "title": "Software Engineer",
+        "contact": {
+            "phone": "+1 2164631168",
+            "email": "viswachandakkanambattu@gmail.com",
+            "github": "https://github.com/viswachand",
+            "linkedin": "https://www.linkedin.com/in/viswachand-akkanambattu-9aa558147/",
+            "visaStatus": "F1 Valid Thru 07/2028"
+        }
+    },
+    "aboutUs": {
+        "title": "About",
+        "summary": [
+            "Backend-focused Software Engineer with 3.5+ years of experience designing and building enterprise-grade SaaS platforms in banking, finance, and logistics domains. I specialize in developing secure, scalable, and event-driven backend services using Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering APIs that handle millions of transactions with 99.99% uptime and high reliability.",
+            "I have architected and modernized large scale systems from legacy platforms into cloud-native microservices, integrating with critical financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines. My experience spans designing RESTful APIs, message-driven architectures with RabbitMQ, database optimization, and implementing strong authentication and authorization mechanisms for sensitive data.",
+            "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions."
+        ]
+    },
+    "keyCompetencies": [
         {
-            "title": "Accountable :",
-            "description": "Proven experience in delivering high-impact results"
+            "title": "Accountable:",
+            "description": "Proven experience in delivering scalable and secure backend systems with measurable business impact."
         },
         {
-            "title": "Team player :",
-            "description": "Great collaboration skills"
+            "title": "Team Player:",
+            "description": "Collaborates effectively with cross-functional teams including product, DevOps, QA, and frontend engineering."
         },
         {
-            "title": "Agile and adaptable:",
-            "description": "Can quickly adapt to changing requirements"
+            "title": "Agile and Adaptable:",
+            "description": "Thrives in fast-paced environments and quickly adapts to evolving requirements and technologies."
         },
         {
-            "title": "Positive influence :",
-            "description": "Optimistic driver of new initiatives"
+            "title": "Positive Influence:",
+            "description": "Drives new initiatives and continuous improvement across development and deployment workflows."
         }
     ],
-  "education": [
-    {
-      "degree": "Master of Science (MS) in Computer Science",
-      "url": "https://www.csuohio.edu/",
-      "institution": "Cleveland State University",
-      "year": "2023-2025",
-      "location": "Cleveland, United States",
-      "honors": "Computer Science"
-    },
-    {
-      "degree": "Bachelor of Technology",
-      "url": "https://www.kalasalingam.ac.in/",
-      "institution": "Kalasalingam University",
-      "year": "2015-2019",
-      "location": "Krishankovil, India",
-      "honors": "Electronics and Communication"
+    "education": [
+        {
+            "degree": "Master of Science (MS) in Computer Science",
+            "url": "https://www.csuohio.edu/",
+            "institution": "Cleveland State University",
+            "year": "2023-2025",
+            "location": "Cleveland, United States",
+            "honors": "Computer Science"
+        },
+        {
+            "degree": "Bachelor of Technology",
+            "url": "https://www.kalasalingam.ac.in/",
+            "institution": "Kalasalingam University",
+            "year": "2015-2019",
+            "location": "Krishankovil, India",
+            "honors": "Electronics and Communication"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "items": [
+                "Java",
+                "JavaScript",
+                "TypeScript",
+                "Python",
+                "SQL"
+            ]
+        },
+        {
+            "title": "Backend",
+            "items": [
+                "Spring Boot 3.x",
+                "Spring Framework",
+                "Spring Data JPA",
+                "Hibernate",
+                "Spring Security",
+                "Apache Camel",
+                "RabbitMQ",
+                "RESTful APIs"
+            ]
+        },
+        {
+            "title": "Cloud",
+            "items": [
+                "AWS (EC2, S3, API Gateway, RDS)",
+                "Docker",
+                "Terraform",
+                "CI/CD (GitHub Actions, Jenkins)"
+            ]
+        },
+        {
+            "title": "Databases",
+            "items": [
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Version Control & Collaboration",
+            "items": [
+                "Git",
+                "GitHub",
+                "Jira",
+                "Confluence",
+                "Slack"
+            ]
+        },
+        {
+            "title": "Modern Authentication Mechanisms",
+            "items": [
+                "Spring Security",
+                "OAuth2",
+                "JSON Web Tokens (JWT)"
+            ]
+        },
+        {
+            "title": "Certifications",
+            "items": [
+                "AWS Certified Developer – Associate",
+                "https://www.credly.com/badges/your-aws-badge-link-here"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Moonraft (Acquired by UST)",
+            "url": "https://moonraft.com/",
+            "buttonText": "Find Moonraft journey in this article",
+            "title": "Backend Software Engineer",
+            "location": "Bangalore, India",
+            "duration": "July 2022 to August 2023",
+            "journey": "https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
+            "Description": [
+                "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As part of the engineering team, I contributed to modernizing Punjab National Bank's core banking systems into a secure SaaS platform using the Spring ecosystem.",
+                "Led backend development of customer-facing banking portals serving 3M+ users, by designing and implementing secure, scalable microservices with Spring Boot, Spring Data JPA, and Spring Security, reducing branch-based queries by 40%.",
+                "Integrated Finacle Core Banking APIs into a microservices architecture, improving transaction workflows and delivering a 30% reduction in API latency under high concurrency.",
+                "Engineered a loan approval engine capable of handling large-volume data with optimized JPA/Hibernate queries and asynchronous workflows, accelerating decision-making by 70%.",
+                "Implemented message-driven communication with RabbitMQ for reliable, high-throughput inter-service messaging, maintaining 99.99% uptime.",
+                "Deployed containerized services on AWS (EC2, RDS, S3, API Gateway) using Terraform and CI/CD pipelines, reducing deployment time by 50% and enabling seamless horizontal scaling."
+            ]
+        },
+        {
+            "company": "Good Crop IT Pvt Ltd",
+            "url": "https://goodcorpit.com/",
+            "buttonText": "Find Good Crop journey in this article",
+            "title": "Backend Software Engineer",
+            "location": "Hyderabad, India",
+            "duration": "Feb 2020 to Jun 2022",
+            "journey": "https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
+            "Description": [
+                "Good Crop IT is a software solutions company delivering enterprise-grade platforms. I worked on modernizing a legacy logistics system into a cloud-based SaaS platform with Spring Boot microservices and AWS.",
+                "Modernized a legacy IBM AS/400 logistics system into a SaaS platform by architecting microservices with Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering 99.99% uptime and enabling secure, high-performance operations.",
+                "Engineered RESTful APIs to integrate with FedEx and USPS services, handling millions of transactions and improving shipping speed while reducing errors through secure API design and validation.",
+                "Implemented event-driven workflows using RabbitMQ for real-time barcode scanning, automated routing, and dynamic inventory updates, reducing manual labor dependency by 40%.",
+                "Optimized data access layers with JPA/Hibernate and PostgreSQL, improving query performance and ensuring ACID compliance in distributed environments.",
+                "Deployed containerized backend services on AWS using Docker, Terraform, and GitHub Actions CI/CD pipelines, accelerating release cycles by 60% and enabling seamless scaling."
+            ]
+        }
+    ],
+    "references": {
+        "availableOnRequest": true
     }
-  ],
-  "skills": [
-    {
-      "title": "Programming Languages",
-      "items": [
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "SQL"
-      ]
-    },
-    {
-      "title": "Backend Frameworks",
-      "items": [
-        "Spring Boot 3.x",
-        "Spring Framework",
-        "Spring Data JPA",
-        "Hibernate",
-        "Spring Security",
-        "Apache Camel",
-        "RabbitMQ",
-        "RESTful APIs"
-      ]
-    },
-    {
-      "title": "Cloud & Infrastructure",
-      "items": [
-        "AWS (EC2, S3, API Gateway, RDS)",
-        "Docker",
-        "Terraform",
-        "CI/CD (GitHub Actions, Jenkins)"
-      ]
-    },
-    {
-      "title": "Databases",
-      "items": [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-      ]
-    },
-    {
-      "title": "Version Control & Collaboration",
-      "items": [
-        "Git",
-        "GitHub",
-        "Jira",
-        "Confluence",
-        "Slack"
-      ]
-    },
-    {
-      "title": "Modern Authentication Mechanisms",
-      "items": [
-        "Spring Security",
-        "OAuth2",
-        "JSON Web Tokens (JWT)"
-      ]
-    },
-    {
-      "title": "Certifications",
-      "items": [
-        "AWS Certified Developer – Associate",
-        "https://www.credly.com/badges/your-aws-badge-link-here"
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "Moonraft (Acquired by UST)",
-      "url": "https://moonraft.com/",
-      "buttonText": "Find Moonraft journey in this article",
-      "title": "Backend Software Engineer",
-      "location": "Bangalore, India",
-      "duration": "July 2022 to August 2023",
-      "journey": "https://medium.com/@viswachand19/moonraft-journey-336e7104c2f6",
-      "Description": [
-        "Moonraft Innovation Labs is a customer experience and innovation firm that combines design, technology, and data to deliver cutting-edge digital solutions. As part of the engineering team, I contributed to modernizing Punjab National Bank's core banking systems into a secure SaaS platform using the Spring ecosystem.",
-        "Led backend development of customer-facing banking portals serving 3M+ users, by designing and implementing secure, scalable microservices with Spring Boot, Spring Data JPA, and Spring Security, reducing branch-based queries by 40%.",
-        "Integrated Finacle Core Banking APIs into a microservices architecture, improving transaction workflows and delivering a 30% reduction in API latency under high concurrency.",
-        "Engineered a loan approval engine capable of handling large-volume data with optimized JPA/Hibernate queries and asynchronous workflows, accelerating decision-making by 70%.",
-        "Implemented message-driven communication with RabbitMQ for reliable, high-throughput inter-service messaging, maintaining 99.99% uptime.",
-        "Deployed containerized services on AWS (EC2, RDS, S3, API Gateway) using Terraform and CI/CD pipelines, reducing deployment time by 50% and enabling seamless horizontal scaling."
-      ]
-    },
-    {
-      "company": "Good Crop IT Pvt Ltd",
-      "url": "https://goodcorpit.com/",
-      "buttonText": "Find Good Crop journey in this article",
-      "title": "Backend Software Engineer",
-      "location": "Hyderabad, India",
-      "duration": "Feb 2020 to Jun 2022",
-      "journey": "https://medium.com/@viswachand19/goodcorpit-pvt-ltd-journey-d77cf7f6cf6f",
-      "Description": [
-        "Good Crop IT is a software solutions company delivering enterprise-grade platforms. I worked on modernizing a legacy logistics system into a cloud-based SaaS platform with Spring Boot microservices and AWS.",
-        "Modernized a legacy IBM AS/400 logistics system into a SaaS platform by architecting microservices with Spring Boot, Spring Data JPA, Hibernate, and Spring Security — delivering 99.99% uptime and enabling secure, high-performance operations.",
-        "Engineered RESTful APIs to integrate with FedEx and USPS services, handling millions of transactions and improving shipping speed while reducing errors through secure API design and validation.",
-        "Implemented event-driven workflows using RabbitMQ for real-time barcode scanning, automated routing, and dynamic inventory updates, reducing manual labor dependency by 40%.",
-        "Optimized data access layers with JPA/Hibernate and PostgreSQL, improving query performance and ensuring ACID compliance in distributed environments.",
-        "Deployed containerized backend services on AWS using Docker, Terraform, and GitHub Actions CI/CD pipelines, accelerating release cycles by 60% and enabling seamless scaling."
-      ]
-    }
-  ],
-  "references": {
-    "availableOnRequest": true
-  }
 }
