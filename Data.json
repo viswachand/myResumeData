@@ -18,24 +18,24 @@
       "Passionate about building backend platforms that solve real business problems, I aim to continue contributing to high-impact SaaS products that transform legacy processes into secure, digital-first solutions."
     ]
   },
-  "keyCompetencies": [
-    {
-      "title": "Accountable:",
-      "description": "Proven experience in delivering scalable and secure backend systems with measurable business impact."
-    },
-    {
-      "title": "Team Player:",
-      "description": "Collaborates effectively with cross-functional teams including product, DevOps, QA, and frontend engineering."
-    },
-    {
-      "title": "Agile and Adaptable:",
-      "description": "Thrives in fast-paced environments and quickly adapts to evolving requirements and technologies."
-    },
-    {
-      "title": "Positive Influence:",
-      "description": "Drives new initiatives and continuous improvement across development and deployment workflows."
-    }
-  ],
+   "keyCompetencies": [
+        {
+            "title": "Accountable :",
+            "description": "Proven experience in delivering high-impact results"
+        },
+        {
+            "title": "Team player :",
+            "description": "Great collaboration skills"
+        },
+        {
+            "title": "Agile and adaptable:",
+            "description": "Can quickly adapt to changing requirements"
+        },
+        {
+            "title": "Positive influence :",
+            "description": "Optimistic driver of new initiatives"
+        }
+    ],
   "education": [
     {
       "degree": "Master of Science (MS) in Computer Science",
