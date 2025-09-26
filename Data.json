@@ -106,7 +106,7 @@
             ]
         },
         {
-            "title": "Modern Authentication Mechanisms",
+            "title": "Authentication Mechanisms",
             "items": [
                 "Spring Security",
                 "OAuth2",
