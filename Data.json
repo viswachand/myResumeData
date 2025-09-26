@@ -10,17 +10,16 @@
             "visaStatus": "F1 Valid Thru 07/2028"
         }
     },
-   "aboutUs": {
-  "title": "About",
-  "summary": [
-    "As a Software Engineer with 3.5+ years of professional experience, I specialize in building secure, scalable, and high-performance backend systems for enterprise-grade SaaS platforms across banking, finance, and logistics domains.",
-    "My work focuses on designing Spring Boot microservices, developing RESTful APIs, and implementing event-driven architectures that process millions of transactions with 99.99% uptime. I have architected and modernized large-scale systems from legacy platforms into cloud-native microservices, integrating with financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines.",
-    "My expertise includes Spring Data JPA, Hibernate, Spring Security, Apache Camel, RabbitMQ, database optimization, and implementing secure authentication and authorization mechanisms for sensitive data.",
-    "I am also an active writer on [Medium](https://medium.com/@viswachand19), where I share insights on backend engineering, cloud-native architectures, and best practices in software design.",
-    "Outside my professional work, I love photography, exploring nature, and capturing creative perspectives through my lens."
-  ]
-}
-
+    "aboutUs": {
+        "title": "About",
+        "summary": [
+            "As a Software Engineer with 3.5+ years of professional experience, I specialize in building secure, scalable, and high-performance backend systems for enterprise-grade SaaS platforms across banking, finance, and logistics domains.",
+            "My work focuses on designing Spring Boot microservices, developing RESTful APIs, and implementing event-driven architectures that process millions of transactions with 99.99% uptime. I have architected and modernized large-scale systems from legacy platforms into cloud-native microservices, integrating with financial and logistics APIs, and deploying resilient services on AWS using Docker, Terraform, and CI/CD pipelines.",
+            "My expertise includes Spring Data JPA, Hibernate, Spring Security, Apache Camel, RabbitMQ, database optimization, and implementing secure authentication and authorization mechanisms for sensitive data.",
+            "I am also an active writer on [Medium](https://medium.com/@viswachand19), where I share insights on backend engineering, cloud-native architectures, and best practices in software design.",
+            "Outside my professional work, I love photography, exploring nature, and capturing creative perspectives through my lens."
+        ]
+    },
     "keyCompetencies": [
         {
             "title": "Accountable:",
